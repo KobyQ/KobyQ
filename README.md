@@ -1,4 +1,4 @@
-### Hi there 👋 I'm David Quagraine!
+### Hi there 👋 I'm David Q!
 
 I am a Technology Executive and Enterprise Fintech Architect with 14+ years of experience driving digital financial services, regional IT strategy, and large-scale digital transformations. My expertise lies in designing multi-tier operating models, building modern core banking integrations, and executing enterprise cloud strategies.
 
