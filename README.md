@@ -16,10 +16,10 @@ I am currently building independent fintech solutions and autonomous trading arc
 
 <p align="center">
   <a href="https://github.com/KobyQ">
-    <img src="https://github-readme-stats.vercel.app/api?username=KobyQ&show_icons=true&theme=radical&hide_border=true" alt="KobyQ's GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KobyQ&show_icons=true&theme=radical&hide_border=true" alt="KobyQ's GitHub Stats" />
   </a>
   <a href="https://github.com/KobyQ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobyQ&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KobyQ&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/davidquagraine) | [Email](mailto:kobequagraine@gmail.com)
