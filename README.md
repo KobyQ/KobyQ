@@ -22,4 +22,5 @@ I am currently building independent fintech solutions and autonomous trading arc
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KobyQ&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
+
 📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/davidquagraine) | [Email](mailto:kobequagraine@gmail.com)
