@@ -1,13 +1,17 @@
+### Hi there 👋 I'm David Quagraine!
 
-### Hi there 👋 I'm David!
+I am a Technology Executive and Enterprise Fintech Architect with 14+ years of experience driving digital financial services, regional IT strategy, and large-scale digital transformations. My expertise lies in designing multi-tier operating models, building modern core banking integrations, and executing enterprise cloud strategies.
 
-I am a highly motivated and experienced DevOps Engineer with 11+ years of experience in software and system engineering roles. I have a deep understanding of the software development life cycle and I am proficient in various DevOps tools and technologies, including but not limited to:
+As a passionate builder of fintech ecosystems, I specialize in the end-to-end delivery of digital banks, mobile wallets, payment ecosystems, and algorithmic trading architectures. 
 
-| :cloud: Cloud | :hammer_and_wrench: IaC | :package: Containers | :gear: CI/CD |
+| 🏦 Enterprise Architecture | ☁️ Cloud & FinOps | 🛡️ Governance & Security | 💻 Engineering |
 |---|---|---|---|
-| AWS | Terraform | Docker | GitHub Actions | 
-| Azure | Ansible | Kubernetes | Jenkins |
+| Core Banking Integrations | AWS, Azure, GCP | SOC 2 & IT Risk | Next.js & Node.js |
+| Payment Ecosystems | Infrastructure as Code | Operational Resilience | System Design |
+| Algorithmic Trading | Cloud Spend Optimization | Regulatory Compliance | CI/CD & Automation |
 
-During over a decade of working in the industry, I have developed, deployed, debugged, and maintained numerous large-scale applications for various renowned companies, including Stanbic Bank, Vodafone, PwC, and Absa Bank.
+Over the past decade, I have operated at the highest levels of technology leadership—serving as a CIO and Head of Solution Architecture—spearheading digital modernization programs and translating strategic commercial agendas into deliverable technology across global markets. 
 
-I have a passion for automating processes and improving efficiency. I am always looking for new and innovative ways to solve problems and make things work better!
+I am currently building independent fintech solutions and autonomous trading architectures right here on GitHub. If you are interested in collaborating on enterprise financial technology, complex system design, or cloud architecture, I would love to connect!
+
+📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/davidquagraine) | [Email](mailto:kobequagraine@gmail.com)
