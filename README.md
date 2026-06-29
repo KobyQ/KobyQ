@@ -14,10 +14,12 @@ Over the past decade, I have operated at the highest levels of technology leader
 
 I am currently building independent fintech solutions and autonomous trading architectures right here on GitHub. If you are interested in collaborating on enterprise financial technology, complex system design, or cloud architecture, I would love to connect!
 
-<br/>
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KobyQ&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobyQ&layout=compact&theme=transparent&hide_border=true" />
-</div>
-<br/>
+<p align="center">
+  <a href="https://github.com/KobyQ">
+    <img src="https://github-readme-stats.vercel.app/api?username=KobyQ&show_icons=true&theme=radical&hide_border=true" alt="KobyQ's GitHub Stats" />
+  </a>
+  <a href="https://github.com/KobyQ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobyQ&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/davidquagraine) | [Email](mailto:kobequagraine@gmail.com)
